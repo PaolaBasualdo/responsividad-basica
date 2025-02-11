@@ -19,6 +19,7 @@ Este proyecto consiste en la creación de una página web que muestre un conjunt
 - 🎨 *CSS3*: Para los estilos y la adaptabilidad responsiva.
 
 ### 📂 Estructura de Archivos
+```plaintext
 Proyecto_Integrador_1/
 ├── index.html     # Archivo principal de la página web
 ├── style.css      # Hoja de estilos CSS
