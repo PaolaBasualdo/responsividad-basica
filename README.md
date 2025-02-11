@@ -24,6 +24,7 @@ Proyecto_Integrador_1/
 ├── index.html     # Archivo principal de la página web
 ├── style.css      # Hoja de estilos CSS
 └── media/         # Carpeta con las imágenes utilizadas en la página
+```
 
 
 ### 🔧 Instalación y Uso
