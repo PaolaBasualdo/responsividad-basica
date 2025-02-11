@@ -1,5 +1,3 @@
-# responsividad-basica
-```markdown
 ### 🚀 Proyecto Integrador 1: Actividad Práctica Responsividad Básica
 
 ### 📌 Descripción
@@ -21,12 +19,11 @@ Este proyecto consiste en la creación de una página web que muestre un conjunt
 - 🎨 *CSS3*: Para los estilos y la adaptabilidad responsiva.
 
 ### 📂 Estructura de Archivos
-```
 Proyecto_Integrador_1/
 ├── index.html     # Archivo principal de la página web
 ├── style.css      # Hoja de estilos CSS
 └── media/         # Carpeta con las imágenes utilizadas en la página
-```
+
 
 ### 🔧 Instalación y Uso
 1. 📥 **Clonar o descargar** el repositorio.
@@ -43,5 +40,3 @@ Este proyecto está bajo la **licencia MIT**. Puedes modificarlo y compartirlo l
 
 ### ✅ Estado del Proyecto
 🟢 **Terminado**
-```
-
