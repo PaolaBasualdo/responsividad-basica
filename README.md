@@ -32,7 +32,15 @@ Proyecto_Integrador_1/
 2. 🌐 **Abrir** el archivo `index.html` en un navegador web.
 
 ### 🖼️ Acceso al proyecto:
-- Deploy en GitHub Pages: [Ver Proyecto] (https://paolabasualdo.github.io/responsividad-basica/)
+🔗 Repositorio en GitHub:
+[Repositorio]((https://github.com/PaolaBasualdo/responsividad-basica).
+
+🔗 Versión desplegada en GitHub Pages:
+[Ver Proyecto](https://paolabasualdo.github.io/responsividad-basica/)
+
+
+
+- Deploy en GitHub Pages: [Ver Proyecto] ()
 
 ### 👩‍💻 Autor
 [<img src="https://avatars.githubusercontent.com/u/117169838?v=4" width=115><br><sub>Paola Ivana Basualdo</sub>](https://github.com/PaolaBasualdo)
