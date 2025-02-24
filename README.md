@@ -31,11 +31,11 @@ Proyecto_Integrador_1/
 1. 📥 **Clonar o descargar** el repositorio.
 2. 🌐 **Abrir** el archivo `index.html` en un navegador web.
 
-### 🖼️ Capturas de Pantalla
-*Añadir aquí capturas de pantalla del diseño responsivo en distintos dispositivos.*
+### 🖼️ Acceso al proyecto:
+- Deploy en GitHub Pages: [Ver Proyecto] (https://paolabasualdo.github.io/responsividad-basica/)
 
 ### 👩‍💻 Autor
-**Paola Ivana Basualdo** - *Desarrolladora*
+[<img src="https://avatars.githubusercontent.com/u/117169838?v=4" width=115><br><sub>Paola Ivana Basualdo</sub>](https://github.com/PaolaBasualdo)
 
 ### ✅ Estado del Proyecto
 🟢 **Terminado**
