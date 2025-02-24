@@ -37,8 +37,5 @@ Proyecto_Integrador_1/
 ### 👩‍💻 Autor
 **Paola Ivana Basualdo** - *Desarrolladora*
 
-### 📜 Licencia
-Este proyecto está bajo la **licencia MIT**. Puedes modificarlo y compartirlo libremente.
-
 ### ✅ Estado del Proyecto
 🟢 **Terminado**
