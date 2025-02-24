@@ -33,7 +33,7 @@ Proyecto_Integrador_1/
 
 ### 🖼️ Acceso al proyecto:
 🔗 Repositorio en GitHub:
-[Repositorio]((https://github.com/PaolaBasualdo/responsividad-basica).
+[Repositorio](https://github.com/PaolaBasualdo/responsividad-basica).
 
 🔗 Versión desplegada en GitHub Pages:
 [Ver Proyecto](https://paolabasualdo.github.io/responsividad-basica/)
